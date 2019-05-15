@@ -14,7 +14,4 @@ eureka:
     prefer-ip-address: true  
 feign:
   hystrix:
-    enabled: true
-test:
-  now:
-    5.15
+    enabled: true                
